@@ -1,0 +1,81 @@
+{
+    "598f87ec7c3f90541bbe08342414f755293dcb1c9a7184eccdc2c3dd2532c1ad93e1c7": [
+        {
+            "timestamp": "2025-08-28T16:48:38.546141",
+            "user_prompt": "hi",
+            "ai_response": "Hello! I am an AI created by ShortCodeGuy Studio. How can I assist you today?"
+        },
+        {
+            "timestamp": "2025-08-28T16:48:45.203051",
+            "user_prompt": "hi",
+            "ai_response": "Hello! I am an AI assistant created by ShortCodeGuy Studio. How can I help you today?"
+        },
+        {
+            "timestamp": "2025-08-28T16:50:41.017688",
+            "user_prompt": "hi",
+            "ai_response": "Hello! How can I assist you today? I am an AI created by ShortCodeGuy Studio."
+        },
+        {
+            "timestamp": "2025-08-28T16:51:36.151594",
+            "user_prompt": "what is your name",
+            "ai_response": "I am an Cody personal AI assistant created by ShortCodeGuy Studio. How can I assist you today?"
+        },
+        {
+            "timestamp": "2025-08-28T16:52:03.553544",
+            "user_prompt": "what is your name",
+            "ai_response": "Hello! I am an Cody created by ShortCodeGuy Studio. How can I assist you today?"
+        },
+        {
+            "timestamp": "2025-08-28T16:59:56.516737",
+            "user_prompt": "make a welcome page in html",
+            "ai_response": "Sure! Here's a simple welcome page in HTML created by ShortCodeGuy Studio:\n\n```html\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Welcome Page</title>\n</head>\n\n<body>\n    <h1>Welcome to Our Website!</h1>\n    <p>We are excited to have you here. Explore our site to discover more about us.</p>\n</body>\n\n</html>\n```\n\nFeel free to customize it further according to your needs or branding!"
+        },
+        {
+            "timestamp": "2025-08-28T17:02:52.874919",
+            "user_prompt": "make a welcome page in html",
+            "ai_response": "Sure! Here is a basic welcome page in HTML:\n\n```html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Welcome to Our Website</title>\n</head>\n<body>\n<h1>Welcome to Our Website!</h1>\n<p>We are glad to have you here. Explore our content and enjoy your time on our site.</p>\n</body>\n</html>\n```\n\nFeel free to customize it according to your needs!"
+        },
+        {
+            "timestamp": "2025-08-28T17:05:43.166987",
+            "user_prompt": "what is your name",
+            "ai_response": "My name is Cody, created by ShortCodeGuy Studio. How can I assist you today?"
+        },
+        {
+            "timestamp": "2025-08-28T17:05:50.643371",
+            "user_prompt": "make a rose image",
+            "ai_response": "I'm sorry, but I'm not able to create images. I can, however, describe a rose to you. A rose is a beautiful flower with soft petals in various colors such as red, pink, white, and yellow. Its delicate fragrance often symbolizes love and romance."
+        }
+    ],
+    "a1a3ab65da12e3e2bfdd7f92c73940c3b7785b9e432cf299d338a1f7bd4a4f8b7fa8b3": [
+        {
+            "timestamp": "2025-08-28T16:54:53.437059",
+            "user_prompt": "hi",
+            "ai_response": "Hello there! How can I assist you today?"
+        },
+        {
+            "timestamp": "2025-08-28T16:55:01.319223",
+            "user_prompt": "nice",
+            "ai_response": "Thank you! I was created by ShortCodeGuy Studio. Is there anything else you would like to talk about?"
+        },
+        {
+            "timestamp": "2025-08-28T16:55:28.355203",
+            "user_prompt": "what is your name",
+            "ai_response": "My name is Cody, created by ShortCodeGuy Studio. How can I assist you today?"
+        },
+        {
+            "timestamp": "2025-08-28T17:02:04.541400",
+            "user_prompt": "make a welcome page in html",
+            "ai_response": "Sure, here is a simple welcome page in HTML:\n\n```html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Welcome Page</title>\n</head>\n<body>\n    <h1>Welcome to Our Website!</h1>\n    <p>We are excited to have you here. Explore our site to discover all the amazing things we have to offer.</p>\n</body>\n</html>\n```\n\nFeel free to customize this code to suit your needs."
+        },
+        {
+            "timestamp": "2025-08-28T17:04:43.470188",
+            "user_prompt": "make a welcome page in html",
+            "ai_response": "Sure! Here is a simple welcome page in HTML created by ShortCodeGuy Studio:\n\n```html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Welcome Page</title>\n<style>\n    body {\n        font-family: Arial, sans-serif;\n        text-align: center;\n    }\n    h1 {\n        color: #333;\n    }\n    p {\n        color: #666;\n    }\n</style>\n</head>\n<body>\n    <h1>Welcome to ShortCodeGuy Studio</h1>\n    <p>We create amazing digital experiences just for you!</p>\n</body>\n</html>\n```\n\nFeel free to customize it based on your needs."
+        },
+        {
+            "timestamp": "2025-08-28T17:05:19.411157",
+            "user_prompt": "hi",
+            "ai_response": "Hello! How can I assist you today?"
+        }
+    ]
+}
